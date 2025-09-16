@@ -26,13 +26,6 @@ The timer allows users to select hours, minutes, and seconds, and provides a loo
 
 ---
 
-## Project Structure
-pastel-timer/
-├── index.html # Main HTML file
-├── style.css # Styling and layout
-├── script.js # Countdown logic and audio control
-└── sound.wav # Audio file played when timer ends
----
 
 ## Technical Details
 
